@@ -1,2 +1,5 @@
-let idade = 5
-console.log(idade)
+let nome = 'Antony';
+let idade = 16;
+let estaAprovado = true;
+let sobrenome = undefined;
+let corSelecionado = null;
